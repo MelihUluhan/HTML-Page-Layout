@@ -1,0 +1,61 @@
+.advertisement {
+	width: 100px;
+	height: 150px;
+	border-color: black;
+	border-width: 2px;
+	background-color: gray;
+	top: 5px;
+	color: black;
+	font-weight: bold;
+	font-size: 16px;
+	position: absolute;
+}
+.header {
+	position: relative;
+	width: 70%;
+	left: 13%;
+	padding-left: 10px;
+	display: flex;
+	align-items: center;
+
+}
+.content {
+	width: 70%;
+	margin:auto;
+	margin-top:50px;
+	font
+}
+.main {
+	font-family: Verdana;
+	
+}
+.title{
+	float:right;
+	position:relative;
+	margin-right:225px;
+	padding-left:40px;
+}
+.logo img {
+	float: left;
+	position: relative;
+	width: 250px;
+	height:100px;
+}
+.image img {
+	width: 250px;
+	height: 200px;
+	float: left;
+	padding-right: 10px;
+	padding-bottom:10px;
+}
+.head {
+	text-align: center;
+	margin: auto;
+	top: 50px;
+	position: relative;
+}
+a {
+	float: left;
+	margin-top: 65px;
+	position: relative;
+}
